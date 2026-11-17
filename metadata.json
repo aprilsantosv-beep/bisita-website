@@ -1,0 +1,6 @@
+{
+  "name": "BisiTa! - Tourism Office SDSS",
+  "description": "Spatial Decision Support System for LGU Tourism Offices in Iligan, Tangub, and Cagayan de Oro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
